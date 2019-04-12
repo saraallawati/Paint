@@ -1,0 +1,59 @@
+html{
+    padding-left: 200px;
+}
+body{
+    font-family: 'Lucida Sans';
+}
+
+canvas{
+    border: 1px solid black;
+}
+
+button{
+    width: 30px;
+    height: 30px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.black{
+    background-color: black;
+}
+
+.beige{
+    background-color: rgb(255, 213, 179);
+}
+
+.brown{
+    background-color: rgb(58, 31, 0);
+}
+
+.eraser{
+    padding: 0px;
+    background-color: white;
+}
+
+.border{
+    border: 1px black solid;
+    width: 300px
+}
+
+img{
+    width: 25px;
+    height: 25px;
+    padding: 0px;
+}
